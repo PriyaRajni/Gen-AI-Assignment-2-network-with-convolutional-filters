@@ -1,0 +1,1 @@
+A network with convolutional filters usually refers to a Convolutional Neural Network (CNN). CNNs are designed to automatically learn spatial patterns (edges, textures, shapes, objects) from data like images, spectrograms, or time series.
